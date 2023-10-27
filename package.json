@@ -1,0 +1,19 @@
+{
+  "name": "snake",
+  "version": "1.0.0",
+  "dependencies": {
+    "socket.io": "^4.5.2"
+  },
+  "description": "snake game js canvas multiplayer",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "snake"
+  ],
+  "author": "mStyle21",
+  "license": "ISC",
+  "module": "node_modules"
+}
